@@ -1,0 +1,2 @@
+#!/bin/bash
+python ../test.py --checkpoint_path_file ./../checkpoints/nyu/dec.pth.tar --dataset_path ./../dataset/nyu_v1 --dataset_folder h5_geometric --exp_name ./../results/test/cm_dec_nyu.npy --nfeatures 3 --coordnode 1  --model_config 'dec_16_9_0, b_0, r_0, p_max_0.1_0, rdec_16_9_0,b_0,r_0,rdec_16_9_0,b_0,r_0,p_max_0.15_0,rdec_32_9_0,b_0,r_0, rdec_32_9_0, b_0,r_0, p_max_0.25_0, rdec_64_9_0, b_0, r_0, rdec_64_9_0, b_0, r_0,p_max_0.35_0,rdec_128_9_1, b_1, r_1, rdec_128_9_1, b_1,  r_1, p_max_0.55_1,gp_avg_1, f_128_1, b_1, r_1, d_0.2_1, f_6_1'
