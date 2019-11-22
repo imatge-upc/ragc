@@ -37,11 +37,13 @@ Due to the existence of some non-deterministic operations in pytorch as explaine
 
 ## Citation
 ```
-@inproceedings{Mosella-Montoro2019RAGC,
-    author = {Albert Mosella-Montoro and Javier Ruiz-Hidalgo},
-    title = {Residual Attention Graph Convolutional Network for Geometric 3D Scene Classification},
-    booktitle = {ICCVW},
-    year = {2019}}
+@InProceedings{Mosella-Montoro_2019_ICCV,
+author = {Mosella-Montoro, Albert and Ruiz-Hidalgo, Javier},
+title = {Residual Attention Graph Convolutional Network for Geometric 3D Scene Classification},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2019}
+}
 ```
 
 ## Contact
